@@ -1,7 +1,5 @@
 # Boston-House-Pricing-Prediction
 
-## Boston House Pricing Prediction
-
 ## Software and tools required
 
 1. [Github Account](https://github.com/)
